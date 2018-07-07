@@ -1,8 +1,7 @@
 certifi==2018.4.16
 chardet==3.0.4
 idna==2.7
-influxdb==5.0.0
-pkg-resources==0.0.0
+influxdb==5.1.0
 python-dateutil==2.7.3
 pytz==2018.4
 requests==2.19.1

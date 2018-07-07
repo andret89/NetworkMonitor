@@ -29,6 +29,7 @@ Options:
 
 
 ```
+sudo apt install python3-influxdb 
 sudo apt install python3-pip 
 ```
 
@@ -36,8 +37,8 @@ If you prefer to use a virtual environment
 
 
 ```
-sudo apt install python3-venv
-python3 -m venv venv
+sudo pip3 install virtualenv 
+virtualenv venv
 source venv/bin/activate
 ```
 
