@@ -249,7 +249,7 @@ def main():
     sniffer_thread = Sniffer(interface=interface, filter=sniff_filter)
     sniffer_thread.start()
     
-    print(" To access the graphic data access the web page http://localhost:8888")
+    print(" To access the graphic data go the web page http://localhost:8888")
 
     try:
         while True:
